@@ -10,6 +10,6 @@ vyhľadávanie podľa definície/hesla
 zobrazenie zoznamu všetkých možných výsledkov
 jednoduché a prehľadné používateľské rozhranie vhodné pre mobilné zariadenia
 # Technologické riešenie
-Aplikácia je implementovaná ako natívna Android aplikácia v jazyku Kotlin. Dáta môžu byť uložené buď lokálne (pomocou databázy Room).
+Aplikácia je implementovaná ako natívna Android aplikácia v jazyku Kotlin. Dáta budú uložené lokálne (pomocou databázy Room).
 # Cieľová skupina
 Projekt je určený pre používateľov, ktorí aktívne lúštia krížovky a potrebujú rýchly a efektívny prístup k databáze slov priamo vo svojom mobilnom zariadení. Aplikácia je vhodná pre všetky vekové skupiny.
