@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "slovo": "ablácia",
+    "definicie": ["odoberanie", "znesenie", "chirurgické odstránenie", "úbytok ľadovca"]
+  },
+  {
+    "id": 2,
+    "slovo": "absolvent",
+    "definicie": ["študent", "ukončujúci", "má ukončené vzdelanie"]
+  },
+  {
+    "id": 3,
+    "slovo": "absurdita",
+    "definicie": ["nezmysel", "hlúposť", "niečo nelogické"]
+  },
+  {
+    "id": 4,
+    "slovo": "achát",
+    "definicie": ["polodrahokam", "kameň", "druh kremeňa"]
+  },
+  {
+    "id": 5,
+    "slovo": "adresát",
+    "definicie": ["prijímateľ", "príjemca pošty", "komu je list určený"]
+  },
+  {
+    "id": 6,
+    "slovo": "agrárnik",
+    "definicie": ["roľník", "poľnohospodár", "pracovník v poľnohospodárstve"]
+  },
+  {
+    "id": 7,
+    "slovo": "aktivita",
+    "definicie": ["činnosť", "pohyb", "akcia", "robenie niečoho"]
+  },
+  {
+    "id": 8,
+    "slovo": "alibi",
+    "definicie": ["dôkaz neviny", "ospravedlnenie", "bol inde"]
+  },
+  {
+    "id": 9,
+    "slovo": "amatér",
+    "definicie": ["laik", "neodborník", "robí niečo zo záľuby"]
+  },
+  {
+    "id": 10,
+    "slovo": "apoštol",
+    "definicie": ["učeník", "posol", "šíriteľ učenia"]
+  },
+  {
+    "id": 11,
+    "slovo": "armáda",
+    "definicie": ["vojsko", "ozbrojené sily", "štátna moc"]
+  },
+  {
+    "id": 12,
+    "slovo": "audiencia",
+    "definicie": ["prijatie", "oficiálna návšteva u významnej osoby"]
+  },
+  {
+    "id": 13,
+    "slovo": "autor",
+    "definicie": ["tvorca", "spisovateľ", "tá osoba, čo to vytvorila"]
+  },
+  {
+    "id": 14,
+    "slovo": "babylon",
+    "definicie": ["chaos", "zmätok", "veľký neporiadok"]
+  },
+  {
+    "id": 15,
+    "slovo": "badminton",
+    "definicie": ["šport", "raketová hra s košíkom", "hra na kurte"]
+  },
+  {
+    "id": 16,
+    "slovo": "balzam",
+    "definicie": ["masť", "liečivý prípravok", "príjemná vôňa"]
+  },
+  {
+    "id": 17,
+    "slovo": "bankový dom",
+    "definicie": ["banka", "finančná inštitúcia", "sídlo banky"]
+  },
+  {
+    "id": 18,
+    "slovo": "barbar",
+    "definicie": ["divoch", "necivilizovaný", "krutý človek"]
+  },
+  {
+    "id": 19,
+    "slovo": "basa",
+    "definicie": ["väzenie", "rybársky nástroj", "hudobný nástroj"]
+  },
+  {
+    "id": 20,
+    "slovo": "belasá farba",
+    "definicie": ["modrá", "svetlomodrá", "farba oblohy"]
+  },
+  {
+    "id": 21,
+    "slovo": "bielidlo",
+    "definicie": ["čistiaci prostriedok", "chemikália", "na bielenie prádla"]
+  },
+  {
+    "id": 22,
+    "slovo": "biela káva",
+    "definicie": ["nápoj", "káva s mliekom", "raňajkový nápoj"]
+  },
+  {
+    "id": 23,
+    "slovo": "biskup",
+    "definicie": ["cirkevný hodnostár", "kňaz", "duchovný vodca"]
+  },
+  {
+    "id": 24,
+    "slovo": "blaho",
+    "definicie": ["šťastie", "pohoda", "blahobyt", "dobrý stav"]
+  },
+  {
+    "id": 25,
+    "slovo": "bojovník",
+    "definicie": ["vojak", "hrdina", "agresívny človek"]
+  },
+  {
+    "id": 26,
+    "slovo": "bolesť",
+    "definicie": ["utrpenie", "strádanie", "fyzická nepríjemnosť"]
+  },
+  {
+    "id": 27,
+    "slovo": "bronz",
+    "definicie": ["zliatina", "kov", "meď s cínom", "tretia medaila"]
+  },
+  {
+    "id": 28,
+    "slovo": "budova",
+    "definicie": ["dom", "stavba", "objekt na bývanie", "konštrukcia"]
+  },
+  {
+    "id": 29,
+    "slovo": "celulóza",
+    "definicie": ["vláknina", "základ papiera", "organická látka"]
+  },
+  {
+    "id": 30,
+    "slovo": "cyklistika",
+    "definicie": ["šport", "bicyklovanie", "jazda na bicykli"]
+  },
+  {
+    "id": 31,
+    "slovo": "čakanie",
+    "definicie": ["oneskorenie", "zdržanie", "očakávanie"]
+  },
+  {
+    "id": 32,
+    "slovo": "človek",
+    "definicie": ["jedinec", "osoba", "homo sapiens", "ľudská bytosť"]
+  },
+  {
+    "id": 33,
+    "slovo": "čierne zlato",
+    "definicie": ["ropa", "uhlie", "cenná surovina"]
+  },
+  {
+    "id": 34,
+    "slovo": "čistota",
+    "definicie": ["hygiena", "poriadok", "nepošpinenosť"]
+  },
+  {
+    "id": 35,
+    "slovo": "debata",
+    "definicie": ["diskusia", "rozhovor", "rozprava", "výmena názorov"]
+  },
+  {
+    "id": 36,
+    "slovo": "dezert",
+    "definicie": ["zákusok", "sladké jedlo", "múčnik"]
+  },
+  {
+    "id": 37,
+    "slovo": "dialóg",
+    "definicie": ["rozhovor dvoch", "komunikácia", "hovor"]
+  },
+  {
+    "id": 38,
+    "slovo": "díler",
+    "definicie": ["predajca", "sprostredkovateľ", "obchodník"]
+  },
+  {
+    "id": 39,
+    "slovo": "ďatlovitý vták",
+    "definicie": ["ďateľ", "vták s dlhým zobákom", "lezúci vták"]
+  },
+  {
+    "id": 40,
+    "slovo": "ďáblik",
+    "definicie": ["čert", "diabol", "zlovestná bytosť"]
+  },
+  {
+    "id": 41,
+    "slovo": "ekológia",
+    "definicie": ["ochrana prírody", "veda o životnom prostredí"]
+  },
+  {
+    "id": 42,
+    "slovo": "elektrina",
+    "definicie": ["prúd", "energia", "volta", "Ampér"]
+  },
+  {
+    "id": 43,
+    "slovo": "emócie",
+    "definicie": ["city", "pocity", "nálada", "prežívanie"]
+  },
+  {
+    "id": 44,
+    "slovo": "éra ľadu",
+    "definicie": ["doba ľadová", "glaciál", "ľadový vek"]
+  },
+  {
+    "id": 45,
+    "slovo": "fakulta",
+    "definicie": ["škola", "odbor", "časť univerzity", "vysoká škola"]
+  },
+  {
+    "id": 46,
+    "slovo": "fialová farba",
+    "definicie": ["purpurová", "fialová", "miešanie modrej a červenej"]
+  },
+  {
+    "id": 47,
+    "slovo": "flóra",
+    "definicie": ["rastlinstvo", "kvety", "botanika", "vegetácia"]
+  },
+  {
+    "id": 48,
+    "slovo": "francúzština",
+    "definicie": ["jazyk", "reč", "románsky jazyk"]
+  },
+  {
+    "id": 49,
+    "slovo": "galaxia",
+    "definicie": ["súhvezdie", "Mliečna cesta", "hviezdny systém"]
+  },
+  {
+    "id": 50,
+    "slovo": "gorila",
+    "definicie": ["opica", "primát", "veľká ľudoopica"]
+  },
+  {
+    "id": 51,
+    "slovo": "gradácia",
+    "definicie": ["stupňovanie", "zosilňovanie", "stupnica"]
+  },
+  {
+    "id": 52,
+    "slovo": "gravitácia",
+    "definicie": ["príťažlivosť", "sila", "pád na zem"]
+  },
+  {
+    "id": 53,
+    "slovo": "história",
+    "definicie": ["dejiny", "minulosť", "učenie o minulosti"]
+  },
+  {
+    "id": 54,
+    "slovo": "hlava",
+    "definicie": ["kebula", "rozum", "mozog", "šéf"]
+  },
+  {
+    "id": 55,
+    "slovo": "horizont",
+    "definicie": ["obzor", "čiara na oblohe", "úroveň"]
+  },
+  {
+    "id": 56,
+    "slovo": "hrozba",
+    "definicie": ["varovanie", "nebezpečenstvo", "výstraha"]
+  },
+  {
+    "id": 57,
+    "slovo": "chémia",
+    "definicie": ["veda o látkach", "chemická reakcia", "alchýmia"]
+  },
+  {
+    "id": 58,
+    "slovo": "chrám boží",
+    "definicie": ["kostol", "svätyňa", "miesto modlitby"]
+  },
+  {
+    "id": 59,
+    "slovo": "injekcia",
+    "definicie": ["vpich", "ihla", "liek pod kožu"]
+  },
+  {
+    "id": 60,
+    "slovo": "inštinkt",
+    "definicie": ["pud", "prirodzený cit", "intuitívne konanie"]
+  },
+  {
+    "id": 61,
+    "slovo": "ísť domov",
+    "definicie": ["odísť", "navštíviť dom", "návrat"]
+  },
+  {
+    "id": 62,
+    "slovo": "jadro",
+    "definicie": ["stred", "podstata", "nukleus", "semeno"]
+  },
+  {
+    "id": 63,
+    "slovo": "javor",
+    "definicie": ["strom", "drevo", "listnatý strom"]
+  },
+  {
+    "id": 64,
+    "slovo": "jazero",
+    "definicie": ["plocha", "voda", "rybník", "nádrž"]
+  },
+  {
+    "id": 65,
+    "slovo": "káva",
+    "definicie": ["nápoj", "nápoj s kofeínom", "espresso"]
+  },
+  {
+    "id": 66,
+    "slovo": "karburátor",
+    "definicie": ["súčiastka", "časť motora", "mieša palivo so vzduchom"]
+  },
+  {
+    "id": 67,
+    "slovo": "knižnica",
+    "definicie": ["miesto kníh", "regál", "budova s knihami"]
+  },
+  {
+    "id": 68,
+    "slovo": "koniec cesty",
+    "definicie": ["cieľ", "zastávka", "finish"]
+  },
+  {
+    "id": 69,
+    "slovo": "kráľ",
+    "definicie": ["panovník", "vládca", "monarcha", "šach"]
+  },
+  {
+    "id": 70,
+    "slovo": "labyrint",
+    "definicie": ["bludisko", "komplikovaná sieť", "ťažká situácia"]
+  },
+  {
+    "id": 71,
+    "slovo": "laboratórium",
+    "definicie": ["pracovisko", "miesto experimentov", "labák"]
+  },
+  {
+    "id": 72,
+    "slovo": "literatúra",
+    "definicie": ["slovesnosť", "čítanie", "písané umenie"]
+  },
+  {
+    "id": 73,
+    "slovo": "ľadová káva",
+    "definicie": ["nápoj", "chladená káva", "osviežujúci nápoj"]
+  },
+  {
+    "id": 74,
+    "slovo": "ľuďstvo",
+    "definicie": ["populácia", "civilizácia", "všetci ľudia"]
+  },
+  {
+    "id": 75,
+    "slovo": "mágia",
+    "definicie": ["kúzla", "čary", "čarodejníctvo"]
+  },
+  {
+    "id": 76,
+    "slovo": "mantinel",
+    "definicie": ["bariéra", "ohradenie", "bezpečnostný okraj"]
+  },
+  {
+    "id": 77,
+    "slovo": "mužský rod",
+    "definicie": ["gramatika", "maskulínum", "typ pohlavia"]
+  },
+  {
+    "id": 78,
+    "slovo": "nábytok",
+    "definicie": ["stôl", "stolička", "vybavenie bytu"]
+  },
+  {
+    "id": 79,
+    "slovo": "nádej",
+    "definicie": ["viera", "očakávanie", "optimistický"]
+  },
+  {
+    "id": 80,
+    "slovo": "ňa",
+    "definicie": ["pád zámena ja", "osobné zámeno"]
+  },
+  {
+    "id": 81,
+    "slovo": "ňadrový syr",
+    "definicie": ["bryndza", "špecifický druh syra", "oštenok"]
+  },
+  {
+    "id": 82,
+    "slovo": "oceán",
+    "definicie": ["more", "veľká vodná plocha", "Atlantik"]
+  },
+  {
+    "id": 83,
+    "slovo": "óda na radosť",
+    "definicie": ["skladba", "Beethoven", "hymna EÚ"]
+  },
+  {
+    "id": 84,
+    "slovo": "osud",
+    "definicie": ["fatálny", "karma", "život", "predurčenie"]
+  },
+  {
+    "id": 85,
+    "slovo": "palác",
+    "definicie": ["sídlo", "zámok", "veľká budova"]
+  },
+  {
+    "id": 86,
+    "slovo": "pieseň",
+    "definicie": ["skladba", "áre", "melódia", "song"]
+  },
+  {
+    "id": 87,
+    "slovo": "quasar",
+    "definicie": ["kvazar", "zdroj energie", "mimoriadne jasné jadro galaxie"]
+  },
+  {
+    "id": 88,
+    "slovo": "quorum",
+    "definicie": ["kvórum", "počet potrebný na hlasovanie", "minimálna účasť"]
+  },
+  {
+    "id": 89,
+    "slovo": "radar",
+    "definicie": ["zariadenie", "detektor", "rádiová lokácia"]
+  },
+  {
+    "id": 90,
+    "slovo": "riadok",
+    "definicie": ["sekvencia", "textový riadok", "rovná čiara"]
+  },
+  {
+    "id": 91,
+    "slovo": "sám",
+    "definicie": ["osamote", "jedine", "iba", "bez pomoci"]
+  },
+  {
+    "id": 92,
+    "slovo": "slovo",
+    "definicie": ["výraz", "jednotka reči", "sloveso"]
+  },
+  {
+    "id": 93,
+    "slovo": "školské vyučovanie",
+    "definicie": ["lekcia", "hodina", "výučba", "čas strávený v škole"]
+  },
+  {
+    "id": 94,
+    "slovo": "šport",
+    "definicie": ["hra", "aktivita", "futbal", "súťaž"]
+  },
+  {
+    "id": 95,
+    "slovo": "tabuľa",
+    "definicie": ["doska", "krieda", "prezentácia"]
+  },
+  {
+    "id": 96,
+    "slovo": "ťažisko",
+    "definicie": ["stred", "centrum hmotnosti", "bod rovnováhy"]
+  },
+  {
+    "id": 97,
+    "slovo": "ťava jednohrbá",
+    "definicie": ["dromedár", "púštne zviera", "sudokopytník"]
+  },
+  {
+    "id": 98,
+    "slovo": "ucho",
+    "definicie": ["sluch", "orgán", "náušnica"]
+  },
+  {
+    "id": 99,
+    "slovo": "úloha",
+    "definicie": ["zadanie", "misia", "práca", "funkcia"]
+  },
+  {
+    "id": 100,
+    "slovo": "úžasný deň",
+    "definicie": ["krásny deň", "skvelý čas", "vynikajúci moment"]
+  },
+  {
+    "id": 101,
+    "slovo": "vetrať",
+    "definicie": ["prevzdušňovať", "otvoriť okno", "výmena vzduchu"]
+  },
+  {
+    "id": 102,
+    "slovo": "vlak",
+    "definicie": ["železnica", "koľajnice", "lokomotíva"]
+  },
+  {
+    "id": 103,
+    "slovo": "vodník",
+    "definicie": ["hastrman", "duch", "bubák", "utopenec"]
+  },
+  {
+    "id": 104,
+    "slovo": "workflow",
+    "definicie": ["pracovný postup", "proces", "tok práce", "schéma"]
+  },
+  {
+    "id": 105,
+    "slovo": "watt",
+    "definicie": ["jednotka výkonu", "sila", "elektrická veličina"]
+  },
+  {
+    "id": 106,
+    "slovo": "xylén",
+    "definicie": ["rozpúšťadlo", "chemická látka", "uhľovodík"]
+  },
+  {
+    "id": 107,
+    "slovo": "xylofón",
+    "definicie": ["hudobný nástroj", "drevené tyčky", "bicie"]
+  },
+  {
+    "id": 108,
+    "slovo": "ypsilon",
+    "definicie": ["písmeno", "grécke písmeno", "hláska"]
+  },
+  {
+    "id": 109,
+    "slovo": "zákon",
+    "definicie": ["pravidlo", "vyhláška", "predpis", "norma"]
+  },
+  {
+    "id": 110,
+    "slovo": "zápal",
+    "definicie": ["choroba", "horúčka", "infekcia", "zápal pľúc"]
+  },
+  {
+    "id": 111,
+    "slovo": "žiaľ",
+    "definicie": ["smútok", "bolesť", "utrpenie", "žalostný"]
+  },
+  {
+    "id": 112,
+    "slovo": "život",
+    "definicie": ["existencia", "bytie", "osud", "vitalita"]
+  }
+]
